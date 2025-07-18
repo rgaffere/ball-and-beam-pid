@@ -89,3 +89,7 @@ To design, build, and tune a closed-loop control system capable of maintaining a
 
 Project completed for **ENEE 461: Control Systems Lab**, Spring 2025  
 University of Maryland, Department of Electrical and Computer Engineering
+
+---
+
+For a more detailed explanation, please refer to the file "Final Project, RG GT 461"
